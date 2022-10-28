@@ -1,16 +1,29 @@
-### Hi there 👋
+<img src = "46207-programmer-1.gif" width = "325px" align = "right"> 
 
-<!--
-**GabrielFerreiraDoPrado/GabrielFerreiraDoPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+<div id =  "Badges">
+ <a href = "https://www.linkedin.com/in/gabriel-ferreira-do-prado-25863919a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm always seeking more knowledge in programming, a subject I'm passionate ❤️ about!
+
+- ⚙️ Software Engineering Student
+- 💻 Programming Enthusiast
+- 📖 Currently studying 
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<div align = "left">
+<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreiraDoPrado&show_icons=true&theme=bear&count_private=true"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreiraDoPrado&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
