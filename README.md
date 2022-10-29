@@ -22,3 +22,8 @@ I'm always seeking more knowledge in programming, a subject I'm passionate ‚ù§Ô∏
 </div>
 
 ---
+
+<div align = "left">
+<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerreiraDoPrado&show_icons=true&theme=bear&count_private=true"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerreiraDoPrado&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
