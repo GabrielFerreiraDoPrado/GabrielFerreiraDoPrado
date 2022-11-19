@@ -3,7 +3,7 @@
 # Hi there 👋 Welcome to my GitHub profile!
 
 <div id =  "Badges">
- <a href = "https://www.linkedin.com/in/gabriel-ferreira-do-prado-25863919a/">
+ <a href = "https://www.linkedin.com/in/gabriel-ferreira-do-prado/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
